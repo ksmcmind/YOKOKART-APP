@@ -1,0 +1,11 @@
+node_modules
+package-lock.json
+dist
+android
+ios
+*.log
+.expo
+android/app/build
+ios/build
+android/app/src/main/assets/index.android.bundle
+android/app/src/main/res/drawable-mdpi
